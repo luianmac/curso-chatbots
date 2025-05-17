@@ -11,7 +11,7 @@ import pickle
 from io import BytesIO
 
 # Third party imports
-import boto3
+#import boto3
 import pandas as pd
 from botocore.exceptions import ClientError
 
